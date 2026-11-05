@@ -32,7 +32,7 @@ Game content and shared gameplay logic are separated to make the game easier to 
 
 **Result:** The game can display purchased quantities and keep upgrade progress consistent with player actions.
 
-**Related commit:** [Integrate room companions and show purchased counts](https://github.com/imalice77/CMPM121_D01/commit/dc079f2)
+**Related commit:** [Integrate room companions and show purchased counts](https://github.com/imalice77/CMPM121_D01/commit/000c326)
 
 ## Credits
 
